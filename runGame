@@ -1,0 +1,11 @@
+HOW TO RUN CODE:
+
+In terminal: paste g++ tetris.cpp -o tetris to initiate c++ compiler
+then, paste ./tetris to run game
+
+GAME FUNCTIONALITY:
+
+a - moves tetrominos to the left
+d - moves tetrominos to the right
+w - rotates tetrominos
+q - quits game
